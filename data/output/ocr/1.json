@@ -1,0 +1,19 @@
+{
+    "img_shape": [
+        1280,
+        1280,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "SnapEdit",
+            "column_min": 1130,
+            "row_min": 1213,
+            "column_max": 1246,
+            "row_max": 1238,
+            "width": 116,
+            "height": 25
+        }
+    ]
+}
